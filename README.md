@@ -1,6 +1,8 @@
-# CEA-Dataset-Documentation
+# New Evaluation Neutrino Fluxes at Reactor
 
-This is the documention that I created while at the CEA. Note: This is not publishable work, this is the work I did over the my Co-op semesters at UBC.
+### Disclaimer this work is not publishable. This document is the result of my cooperative work experiance ###
+
+This documention was created to pass on knowleadge to the collaberation at CEA-France. As well as, provide my univeristy documention of the work I had done.
 
 Below are some highlights the the Data Analysis I preformed. 
 ![image](https://user-images.githubusercontent.com/20325116/206877149-541c8983-5562-43cd-af19-194b9677f197.png)
